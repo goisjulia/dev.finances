@@ -1,2 +1,2 @@
-# dev.finances
+# dev.finance$
 Projeto realizado na maratona Discover da Rocketseat 🚀
